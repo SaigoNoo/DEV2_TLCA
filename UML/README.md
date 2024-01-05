@@ -1,2 +1,2 @@
 # Diagramme UML
-Voici le lien du [diagramme UML](https://lucid.app/lucidchart/a581c294-b5d7-49c7-899f-2f9d461ca01d/edit?invitationId=inv_2c04af22-1ae6-4bff-b3f1-1b8762354551&page=0_0#](https://lucid.app/lucidchart/a581c294-b5d7-49c7-899f-2f9d461ca01d/edit?viewport_loc=-2134%2C-1006%2C1762%2C2189%2C0_0&invitationId=inv_2c04af22-1ae6-4bff-b3f1-1b8762354551)https://lucid.app/lucidchart/a581c294-b5d7-49c7-899f-2f9d461ca01d/edit?viewport_loc=-2134%2C-1006%2C1762%2C2189%2C0_0&invitationId=inv_2c04af22-1ae6-4bff-b3f1-1b8762354551).
+Voici le lien du [diagramme UML](https://lucid.app/documents/view/a581c294-b5d7-49c7-899f-2f9d461ca01d).
